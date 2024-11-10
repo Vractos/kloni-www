@@ -109,7 +109,7 @@ export const HeroImage = () => {
             `relative z-10 transition-opacity rounded-lg`,
             inView ? 'opacity-100' : 'opacity-0'
           )}
-          alt='Thera'
+          alt='Kloni'
         />
       </div>
     </div>

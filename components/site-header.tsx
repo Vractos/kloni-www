@@ -26,7 +26,7 @@ export function SiteHeader() {
           <div className='w-full flex-1 md:w-auto md:flex-none'>
             <Button asChild variant={'link'} size={'default'}>
               <a
-                href='https://app.thera.rocks'
+                href='https://app.kloni.com.br/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
@@ -35,7 +35,7 @@ export function SiteHeader() {
             </Button>
           </div>
           <Button asChild size={'default'}>
-            <a href='https://app.thera.rocks' 
+            <a href='https://app.kloni.com.br/' 
             target='_blank'
             rel='noopener noreferrer'
             >Criar conta</a>

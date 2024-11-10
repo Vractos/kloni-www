@@ -19,7 +19,6 @@ import React from 'react';
 // const navigation = [
   // { name: 'Soluções', href: '/#solucoes' },
   // { name: 'Planos', href: '/planos' },
-  // { name: 'Blog', href: 'https://blog.thera.rocks', external: true },
 // ];
 
 export function MainNav() {

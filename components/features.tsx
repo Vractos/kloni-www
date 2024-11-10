@@ -17,21 +17,7 @@ interface Feature {
 }
 
 const features = [
-  {
-    name: 'Theradata',
-    comingSoon: false,
-    description:
-      'A Theradata é a nossa base de dados inteligente, atualizada automaticamente com os dados mais recentes das startups.',
-    icon: function DataBaseIcon() {
-      return (
-        <DatabaseZap
-          className='h-3/4 w-3/4 md:h-1/2 md:w-1/2'
-          color='rgb(124,58,300)'
-          strokeWidth={1.5}
-        />
-      );
-    },
-  },
+
   {
     name: 'Inteligência Artificial',
     comingSoon: false,

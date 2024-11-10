@@ -25,21 +25,8 @@ interface Navigation {
 
 const navigation: Navigation = {
   main: [
-    // { name: 'Soluções', href: '/#solucoes' },
-    // { name: 'Planos', href: '/planos' },
-    // { name: 'Blog', href: 'https://blog.thera.rocks' },
-    // { name: 'Jobs', href: 'https://www.linkedin.com/company/thera-rocks/jobs' },
   ],
   social: [
-    // {
-    //   name: 'LinkedIn',
-    //   href: 'https://www.linkedin.com/company/thera-rocks/',
-    //   icon: (
-    //     props: JSX.IntrinsicAttributes &
-    //       IconProps &
-    //       RefAttributes<SVGSVGElement>
-    //   ) => <LinkedInLogoIcon {...props} />,
-    // },
     {
       name: 'Github',
       href: 'https://github.com/atrati',
